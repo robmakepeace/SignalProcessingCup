@@ -2,8 +2,8 @@
 Discrete candidate analysis for heart rate monitoring using wrist-type photoplethysmographic signals during intensive exercise
 
 ## Team
-Kai Lin1, James Smith1, Ross Leon1, Robert Makepeace1, Nicholas Cummins1;2, Vidhyasaharan Sethu1
-1: School of Elec. Eng. and Telecom., The University of New South Wales, Sydney Australia
+Kai Lin1, James Smith1, Ross Leon1, Robert Makepeace1, Nicholas Cummins1;2, Vidhyasaharan Sethu1\
+1: School of Elec. Eng. and Telecom., The University of New South Wales, Sydney Australia\
 2: ATP Research Lab, National ICT (NICTA), Australia
 
 ## Abstract
@@ -16,16 +16,16 @@ Fig. 1. DCA Overall system: sets of heart rate and artefact candidates are chose
 [JournalArticle](/Assets/JournalArticle.pdf)
 
 ## Data
-[Data](/Data)
+[Data](https://github.com/robmakepeace/SignalProcessingCup/tree/main/Data)
 
 ## Software
-[Software](/Software)
+[Software]([/](https://github.com/robmakepeace/SignalProcessingCup/tree/main/)Software)
 
 ## Data
-[Data](/Data)
+[Data]([/](https://github.com/robmakepeace/SignalProcessingCup/tree/main/)Data)
 
 ## Images
-[Results](/Results)
+[Results]([/](https://github.com/robmakepeace/SignalProcessingCup/tree/main/)Results)
 
 ![Results](/Assets/Results.PNG)
 
